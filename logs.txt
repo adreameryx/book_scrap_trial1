@@ -1,0 +1,32 @@
+24-07-2020 03:12:14 INFO     [app.py:12] Loading books list.
+24-07-2020 03:12:14 INFO     [app.py:14] Requesting http://books.toscrape.com
+24-07-2020 03:12:22 INFO     [app.py:12] Loading books list.
+24-07-2020 03:12:22 INFO     [app.py:14] Requesting http://books.toscrape.com
+24-07-2020 03:42:19 INFO     [app.py:14] Loading books list.
+24-07-2020 03:42:19 INFO     [app.py:16] Requesting http://books.toscrape.com
+24-07-2020 03:42:26 INFO     [app.py:14] Loading books list.
+24-07-2020 03:42:26 INFO     [app.py:16] Requesting http://books.toscrape.com
+24-07-2020 18:23:57 INFO     [app.py:14] Loading books list.
+24-07-2020 18:23:57 INFO     [app.py:16] Requesting http://books.toscrape.com
+24-07-2020 18:52:28 INFO     [app.py:14] Loading books list.
+24-07-2020 18:52:28 INFO     [app.py:16] Requesting http://books.toscrape.com
+24-07-2020 18:54:48 INFO     [app.py:14] Loading books list.
+24-07-2020 18:54:48 INFO     [app.py:16] Requesting http://books.toscrape.com
+24-07-2020 18:55:41 INFO     [app.py:14] Loading books list.
+24-07-2020 18:55:41 INFO     [app.py:16] Requesting http://books.toscrape.com
+24-07-2020 18:57:24 INFO     [app.py:14] Loading books list.
+24-07-2020 18:57:24 INFO     [app.py:16] Requesting http://books.toscrape.com
+24-07-2020 19:11:34 INFO     [app.py:14] Loading books list.
+24-07-2020 19:11:34 INFO     [app.py:16] Requesting http://books.toscrape.com
+24-07-2020 19:14:04 INFO     [app.py:14] Loading books list.
+24-07-2020 19:14:04 INFO     [app.py:16] Requesting http://books.toscrape.com
+24-07-2020 19:14:18 INFO     [app.py:14] Loading books list.
+24-07-2020 19:14:18 INFO     [app.py:16] Requesting http://books.toscrape.com
+24-07-2020 19:16:13 INFO     [app.py:14] Loading books list.
+24-07-2020 19:16:13 INFO     [app.py:16] Requesting http://books.toscrape.com
+24-07-2020 19:17:35 INFO     [app.py:14] Loading books list.
+24-07-2020 19:17:35 INFO     [app.py:16] Requesting http://books.toscrape.com
+24-07-2020 19:20:28 INFO     [app.py:14] Loading books list.
+24-07-2020 19:20:28 INFO     [app.py:16] Requesting http://books.toscrape.com
+24-07-2020 19:29:41 INFO     [app.py:14] Loading books list.
+24-07-2020 19:29:41 INFO     [app.py:16] Requesting http://books.toscrape.com
